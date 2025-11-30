@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy making sense of complex, messy datasets and transfoming them into clear stories and usable insights.
 
-My focus is on building dashboards that are clear, easy to understand and interact with, as well as creating models that help businesses plan for the future.
+My focus is on building dashboards that are clear, easy to understand and interact with, as well as creating models that help businesses improving decision making.
 
 When I'm not working with data, I enjoy exrecising, walking, learning new things. I also like listening to music as a way to relax. I love the feeling that comes with being able to solve issues/problems and surpass challenges.
 
